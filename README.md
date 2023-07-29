@@ -14,3 +14,9 @@ Welcome to my portfolio website! This repository contains the code and content f
 * CSS
 * JavaScript
 * Bootstrap
+
+# Setup
+To run this website locally, follow these steps:
+* Clone this repository to your local machine.
+* Navigate to the project directory.
+* Open `index.html` in your preferred web browser.
