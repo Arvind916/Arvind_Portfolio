@@ -20,3 +20,12 @@ To run this website locally, follow these steps:
 * Clone this repository to your local machine.
 * Navigate to the project directory.
 * Open `index.html` in your preferred web browser.
+
+# Usage
+Feel free to explore the website and interact with its various sections. Click on project tiles to view more details about each project. Don't forget to visit the "Contact" page if you wish to get in touch with me.
+
+# Project Link
+
+
+
+Thank you for visiting my portfolio website repository! If you have any suggestions or encounter any issues while exploring the site, please don't hesitate to let me know. Happy browsing! 😊
