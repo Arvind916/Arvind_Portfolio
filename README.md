@@ -3,4 +3,5 @@ Welcome to my portfolio website! This repository contains the code and content f
 
 # Features
 
-* Project Showcase:Discover the various projects I've developed and contributed to.
+* Project Showcase:
+  Discover the various projects I've developed and contributed to.
