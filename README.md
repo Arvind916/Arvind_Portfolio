@@ -8,3 +8,9 @@ Welcome to my portfolio website! This repository contains the code and content f
 * About Me: Learn more about my background, skills, and professional experience.
 * Contact Information: Find ways to get in touch with me.
 * Responsive Design: The website is optimized to work seamlessly across different devices and screen sizes.
+
+# Technologies Used
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
