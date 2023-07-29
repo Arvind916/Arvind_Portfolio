@@ -5,3 +5,6 @@ Welcome to my portfolio website! This repository contains the code and content f
 
 * Project Showcase:
   Discover the various projects I've developed and contributed to.
+* About Me: Learn more about my background, skills, and professional experience.
+* Contact Information: Find ways to get in touch with me.
+* Responsive Design: The website is optimized to work seamlessly across different devices and screen sizes.
